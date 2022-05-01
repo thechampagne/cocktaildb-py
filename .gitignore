@@ -1,0 +1,5 @@
+.idea/
+venv/
+dist/
+src/cocktaildb.egg-info
+pdoc/
